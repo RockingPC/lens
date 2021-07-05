@@ -1,0 +1,20 @@
+body{
+     background-color:rgb(255, 10, 92);
+     font-size:20px;
+     color:rgb(111, 9, 245);
+
+}
+.heading_love{
+     color:beige;
+     box-shadow:5px 5px 5px aqua;
+
+}
+.heading_div2{
+     color:cadetblue;
+     box-shadow:5px 5px 5px chartreuse;
+
+}
+.heading_div3{
+     color:chocolate;
+     box-shadow:5px 5px 5px crimson;
+}
